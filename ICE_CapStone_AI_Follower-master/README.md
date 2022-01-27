@@ -6,4 +6,5 @@ Git repository for 2020-2 Capstone design @ Information Communication Engineerin
 - GPGPU : CUDA 10.2
 - Pytorch 1.5.1
 - NVIDIA Jetson Nano
+- NVIDIA Jetson Xavier
 - Python 3.8
